@@ -1,0 +1,4 @@
+﻿  kurs.cpp
+d:\учеба\программирование\kurs\kurs\kurs.cpp(15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  kurs.vcxproj -> D:\учеба\программирование\kurs\Debug\kurs.exe
+  kurs.vcxproj -> D:\учеба\программирование\kurs\Debug\kurs.pdb (Full PDB)
